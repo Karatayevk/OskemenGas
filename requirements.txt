@@ -1,0 +1,9 @@
+lxml==4.9.1
+requests==2.27.1
+beautifulsoup4==4.11.1
+prettytable==3.4.1
+aiogram==2.20
+aioschedule==0.5.2
+pytz==2022.1
+asyncio==3.4.3
+fake-useragent==0.1.11
