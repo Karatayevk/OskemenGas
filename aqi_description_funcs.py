@@ -1,4 +1,4 @@
-
+# Функции для описания Air Quality Index.
 def aqi_longdescription(value):
     if value <= 50:
         return f"""-Индекс качества воздуха (AQI) = {value} 🟢
